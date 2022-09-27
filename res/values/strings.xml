@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestureApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_multi_touch">Multi Touch</string>
+    <string name="title_activity_on_screen_keyboard">OnScreenKeyboardActivity</string>
+    <string name="keyboardTextHint">Please Type Here</string>
+
+</resources>
